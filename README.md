@@ -20,8 +20,8 @@ In your n8n instance:
 
 | Operation | What It Does | Quota |
 |-----------|-------------|-------|
-| **Generate Prompt** | Create an optimized prompt for ChatGPT, Claude, Gemini, Midjourney, and 140+ more platforms | Uses monthly quota (Free: 10/mo, Pro: unlimited) |
-| **Score Prompt** | Get a PromptIQ quality score (0-100) across 16 dimensions: structure, clarity, context, precision | Free — no quota |
+| **Generate Prompt** | Create an optimized prompt for ChatGPT, Claude, Gemini, Midjourney, and 140+ more platforms | Uses monthly quota ([see pricing](https://prompeteer.ai/pricing)) |
+| **Score Prompt** | Get a Prompt Score quality score (0-100) across 16 dimhensions: structure, clarity, context, precision | Free — no quota |
 | **Enhance Prompt** | Rewrite any prompt into a professional, optimized version using AI | Free — no quota |
 
 ## Example Workflows
