@@ -247,7 +247,7 @@ export class Prompeteer implements INodeType {
           };
 
           const body: Record<string, string> = {
-            userInput,
+            promptIdea: userInput,
             platformId,
           };
 
